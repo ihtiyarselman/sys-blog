@@ -1,4 +1,4 @@
-baseURL = 'https://sitenin-adi.netlify.app/'
+baseURL = 'https://root-student.netlify.app/'
 languageCode = 'tr-tr'
 title = 'Sysadmin Yolculuğum'
 theme = 'PaperMod'
