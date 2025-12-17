@@ -1,0 +1,8 @@
+baseURL = 'https://sitenin-adi.netlify.app/'
+languageCode = 'tr-tr'
+title = 'Sysadmin Yolculuğum'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "dark" # Senin göz hassasiyetin için varsayılan karanlık mod
+  author = "Selman Kaya"
